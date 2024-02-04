@@ -1,0 +1,26 @@
+.content_new_recipe {
+  display: flex;
+  flex-direction: column;
+  background-color: #2f3541;
+  /* border: 1px solid; */
+  margin: 20px;
+}
+
+input{
+  margin-bottom: 20px;
+  width: 100%;
+
+}
+/* 
+label{
+  margin-left: 10px;
+} */
+
+button{
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.label_form{
+  width: 90%;
+}

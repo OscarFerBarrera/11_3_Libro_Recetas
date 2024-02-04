@@ -1,0 +1,60 @@
+
+.content_new_recipe {
+  display:flex;
+  flex-direction: column;
+  background-color: #2f3541;
+  /* border: 1px solid; */
+  margin: 10px;
+}
+
+.card__recipe{
+  display:flex;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.card__recipe-name{
+  font-weight: 700;
+}
+
+.card__img{
+  height: 100px;
+  width: 120px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+
+
+
+/* .recipe-item {
+  border-radius: 5px;
+  background: #424950;
+  color: #333;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+  align-items: center;
+}
+
+.recipe-item__image {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.recipe-item__info{
+  width: 80%;
+}
+
+.recipe-item__delete-button{
+  height: 80px;
+  width: 80px;
+  overflow: auto;
+}
+
+.recipe-item__img-button{
+  height: 80px;
+  width: 80px;
+} */
